@@ -1,0 +1,25 @@
+#graph {
+	width: 1000px;
+	height: 500px;
+}
+
+text {
+  font-size: 14px;
+  font-family: arial;
+  font-weight: normal;
+}
+
+h1 {
+  text-align: center;
+  font-family: arial;
+  font-weight: normal;
+}
+
+h3 {
+  text-align: center;
+  font-family: arial;
+}
+
+.label {
+  font-weight: bold;
+}
